@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/"></a>Reginald's IT and Cybersecurity Project Portfolio
 
-I have a real love for technology and cybersecurity. This world is full of challenges — and I’m here to help solve them. I’m here to serve and make a difference.
+I have a real love for technology and cybersecurity. This world is full of challenges, I’m here to solve them. Here at your service!
 
 ## Vulnerability Management Projects
 
