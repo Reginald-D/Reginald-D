@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Trevino+Parker!;" /
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Trevino+Parker!;" />
 </h1>
 
 <h3 align="center">👋 Agentic AI Security Engineer & GRC Engineer & Vulnerability Management </h3>
@@ -34,22 +34,22 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 
 ### 🤖 Agentic AI Engineer Projects 🤖
      
-- **[Agentic AI SOC Analyst](https://github.com/TrevinoParker7/Agentic_AI_SOC_Analyst_Threat_Hunter/tree/main)**
-- **[Agentic AI Vulnerability_Management](https://github.com/TrevinoParker7/Agentic_AI_Vulnerability_Management/tree/main)**
-- **[Agentic AI & LLM & AI/ML GRC Analyst Audit ](https://github.com/TrevinoParker7/AI-ML_Audit-Multiple_Agentic_AI_Audit/tree/main)**
-- **[Agentic_AI_LLM_Top_10_OWASP_Checker_With_AWS](https://github.com/TrevinoParker7/Agentic_AI_LLM_Top_10_OWASP_Checker_With_AWS)**
-- **[Agentic AI Voice Certifications Interviewer App Source Code Walk-Thru](https://codejourney61.gumroad.com/l/oneri)**
+- **[Agentic AI SOC Analyst]()**
+- **[Agentic AI Vulnerability_Management]()**
+- **[Agentic AI & LLM & AI/ML GRC Analyst Audit ]()**
+- **[Agentic_AI_LLM_Top_10_OWASP_Checker_With_AWS]()**
+- **[Agentic AI Voice Certifications Interviewer App Source Code Walk-Thru]()**
 
 ### 🚨  GRC Engineer Projects 🚨
 
-- **[AWS_Automated_Access_Review](https://github.com/TrevinoParker7/AWS_Automated_Access_Review_1/tree/main/aws_automated_access_review_1)**
-- **[AWS_Security_Hub_Compliance_ Analyzer](https://github.com/TrevinoParker7/Security_Hub-_Compliance_Analyzer1)**
-- **[AWS_Security_Hub_To_Excel_Pipeline](https://github.com/TrevinoParker7/AWS_Security_Hub_To_Excel_Pipeline/tree/main)**
-- **[AWS_Password_Policy_Verification](https://github.com/TrevinoParker7/Password_Policy_Verification/blob/main/README.md)**
-- **[AWS_Inactive_Key_Rotation_Check](https://github.com/TrevinoParker7/Inactive_Key_Rotation_Check/tree/main)**
-- **[AWS_Cloudtrail_Validator](https://github.com/TrevinoParker7/Cloudtrail_Validator/blob/main/README.md)**
-- **[AWS_Cloud_Encryption_Evidence](https://github.com/TrevinoParker7/AWS_Cloud_Encryption_Evidence)**
-- **[AWS_Least_Privilege_Compliance_Checker](https://github.com/TrevinoParker7/AWS_Least_Privilege_Compliance_Checker)**
+- **[AWS_Automated_Access_Review]()**
+- **[AWS_Security_Hub_Compliance_ Analyzer]()**
+- **[AWS_Security_Hub_To_Excel_Pipeline]()**
+- **[AWS_Password_Policy_Verification]()**
+- **[AWS_Inactive_Key_Rotation_Check]()**
+- **[AWS_Cloudtrail_Validator]()**
+- **[AWS_Cloud_Encryption_Evidence]()**
+- **[AWS_Least_Privilege_Compliance_Checker]()**
 
 
 ### 🟣 PURPLE TEAM 🟣
