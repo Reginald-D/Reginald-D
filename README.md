@@ -31,3 +31,48 @@ I have a real love for technology and cybersecurity. This world is full of chall
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
+
+
+----
+
+<h2> Tools:</h2>
+
+
+
+
+### Security Automation
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-2E6DBF?&style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
+</div>
+
+### Cloud & DevSecOps
+<div>
+    <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</div>
+
+### Governance & Compliance
+<div>
+    <img src="https://img.shields.io/badge/-NIST-1565C0?&style=for-the-badge&logo=nist&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ISO_27001-455A64?&style=for-the-badge&logo=iso&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PCI_DSS-00838F?&style=for-the-badge&logo=visa&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HIPAA-AD1457?&style=for-the-badge&logo=heartbeat&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+### Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys-0072C6?&style=for-the-badge&logo=qualys&logoColor=white" />
+</div>
+
+### Certifications
+</div>
+    <img src="https://img.shields.io/badge/Security+-CompTIA%20Security+-red?logo=compTIA&logoColor=white" />
