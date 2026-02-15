@@ -5,11 +5,13 @@ I have a real love for technology and cybersecurity. This world is full of chall
 ## Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](htttps://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](htttps://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (BASH)](https://github.com/Reginald-D/rhel9-stig-remediation-bash-scripts)**
+- **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/Reginald-D/win11-stig-remediation-scripts)**
+
 
 ## Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](htttps://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Reginald-D/threat-hunting/blob/main/README.md)**
 
 <hr/>
 
