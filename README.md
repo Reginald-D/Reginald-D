@@ -82,7 +82,8 @@ I have a real love for technology and cybersecurity. This world is full of chall
 </div>
 
 ### Certifications
-</div>
+<div>
 <img src="https://img.shields.io/badge/-COMPTIA%20SECURITY%2B-DA291C?&style=for-the-badge&logo=shield&logoColor=white" />
 <img src="https://img.shields.io/badge/-GOOGLE%20CYBERSECURITY-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-GOOGLE%20IT%20PROFESSIONAL-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+</div>
