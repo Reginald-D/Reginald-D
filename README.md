@@ -4,7 +4,7 @@ I have a real love for technology and cybersecurity. This world is full of chall
 
 ## Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](htttps://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/Reginald-D/vulnerability-management-program/blob/main/README.md)**
 - **[Programmatic Vulnerability Remediations (BASH)](https://github.com/Reginald-D/rhel9-stig-remediation-bash-scripts)**
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/Reginald-D/win11-stig-remediation-scripts)**
 
