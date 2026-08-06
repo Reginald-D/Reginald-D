@@ -12,6 +12,7 @@ I have a real love for technology and cybersecurity. This world is full of chall
 ## Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Reginald-D/threat-hunting/blob/main/README.md)**
+- **[Threat Hunting Reports](https://github.com/Reginald-D/threat-hunting/blob/main/README.md)**
 
 <hr/>
 
