@@ -36,6 +36,13 @@ I have a real love for technology and cybersecurity. This world is full of chall
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
 
+### IAM (Identity and Access Management)
+<div>
+    <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Group%20Policy-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
+
 ### Language Query
 <div>
     <img src="https://img.shields.io/badge/-KQL-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
