@@ -13,13 +13,21 @@ I have a real love for technology and cybersecurity. This world is full of chall
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Reginald-D/threat-hunting/blob/main/README.md)**
 - **[Threat Hunting Reports](https://github.com/Reginald-D/Threat-Hunting-Reports)**
-
+- **[IT Service Management](https://github.com/Reginald-D/Threat-Hunting-Reports)**
+  
 <hr/>
 
 <h2> Tools:</h2>
 
 
 
+
+### IT Service Management
+<div>
+    <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/ConnectWise-2A2A2A?style=for-the-badge&logo=connectwise&logoColor=white" />
+</div>
 
 ### Security Automation
 <div>
@@ -28,7 +36,7 @@ I have a real love for technology and cybersecurity. This world is full of chall
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
 
-### Language
+### Language Query
 <div>
     <img src="https://img.shields.io/badge/-KQL-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/-SPL-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
@@ -38,6 +46,8 @@ I have a real love for technology and cybersecurity. This world is full of chall
 ### Cloud & DevSecOps
 <div>
     <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </div>
 
 ### Governance & Compliance
@@ -51,6 +61,7 @@ I have a real love for technology and cybersecurity. This world is full of chall
 
 ### SIEM
 <div>
+    <img src="https://img.shields.io/badge/CrowdStrike-EF1C25?style=for-the-badge&logo=crowdstrike&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -64,7 +75,15 @@ I have a real love for technology and cybersecurity. This world is full of chall
 
 ### Certifications
 <div>
-<img src="https://img.shields.io/badge/-COMPTIA%20SECURITY%2B-DA291C?&style=for-the-badge&logo=shield&logoColor=white" />
-<img src="https://img.shields.io/badge/-GOOGLE%20CYBERSECURITY-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-GOOGLE%20IT%20PROFESSIONAL-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/CISSP-2E5D8C?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-COMPTIA%20SECURITY%2B-DA291C?&style=for-the-badge&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GOOGLE%20CYBERSECURITY-4285F4?&style=for-the-badge&logo=google&logoColor=whit" />
+    <img src="https://img.shields.io/badge/-GOOGLE%20IT%20PROFESSIONAL-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
+### Networking
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/PuTTY-000000?style=for-the-badge&logo=putty&logoColor=white" />
 </div>
