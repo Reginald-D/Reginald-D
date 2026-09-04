@@ -13,7 +13,11 @@ I have a real love for technology and cybersecurity. This world is full of chall
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Reginald-D/threat-hunting/blob/main/README.md)**
 - **[Threat Hunting Reports](https://github.com/Reginald-D/Threat-Hunting-Reports)**
-- **[IT Service Management](https://github.com/Reginald-D/Threat-Hunting-Reports)**
+
+
+## IT Service Management
+
+- **[IT Service Desk](https://github.com/Reginald-D/Threat-Hunting-Reports)**
   
 <hr/>
 
