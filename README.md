@@ -4,7 +4,8 @@ I have a real love for technology and cybersecurity. This world is full of chall
 
 ## SOC Architect Project
 
-- **[SOC Architect Cyber Range](https://github.com/Reginald-D/soc-architect)**
+- **[SOC Architect Cyber Range - Architecture](https://github.com/Reginald-D/soc-architect)**
+- **[SOC Architect Phases 1-6](https://github.com/Reginald-D/soc-architect)**
 
 ## Vulnerability Management Projects
 
