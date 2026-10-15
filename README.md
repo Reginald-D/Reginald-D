@@ -23,8 +23,8 @@ I have a real love for technology and cybersecurity. This world is full of chall
 ## IT Service Management
 
 - **[Tier 1](https://github.com/Reginald-D/it-service-management)**
-- **[Tier 2](https://github.com/Reginald-D/it-service-management)**
-- **[Tier 3](https://github.com/Reginald-D/it-service-management)**
+- **[Tier 2](https://github.com/Reginald-D/tier-2)**
+- **[Tier 3](https://github.com/Reginald-D/tier-3)**
 <hr/>
 
 <h2> Tools:</h2>
